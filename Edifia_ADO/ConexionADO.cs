@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProyVentas_ADO
+namespace Edifia_ADO
 {
-    internal class ConexionADO
+    public class ConexionADO
     {
         public string GetCnx()
         {
