@@ -1,0 +1,14 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.ide
+*.sln.dotSettings
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files
+*.vs/
