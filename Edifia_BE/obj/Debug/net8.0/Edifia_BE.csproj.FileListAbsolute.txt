@@ -1,0 +1,12 @@
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\bin\Debug\net8.0\Edifia_BE.deps.json
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\bin\Debug\net8.0\Edifia_BE.dll
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\bin\Debug\net8.0\Edifia_BE.pdb
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.sourcelink.json
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.dll
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\refint\Edifia_BE.dll
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\Edifia_BE.pdb
+C:\Users\eduar\OneDrive\desarrollo de software\ciclo 4\DEA 1\proyecto Edifia\EDIFIA\Edifia\Edifia_BE\obj\Debug\net8.0\ref\Edifia_BE.dll

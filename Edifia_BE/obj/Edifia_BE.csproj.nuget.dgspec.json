@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\Edifia_BE.csproj": {}
+    "C:\\Users\\eduar\\OneDrive\\desarrollo de software\\ciclo 4\\DEA 1\\proyecto Edifia\\EDIFIA\\Edifia\\Edifia_BE\\Edifia_BE.csproj": {}
   },
   "projects": {
-    "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\Edifia_BE.csproj": {
+    "C:\\Users\\eduar\\OneDrive\\desarrollo de software\\ciclo 4\\DEA 1\\proyecto Edifia\\EDIFIA\\Edifia\\Edifia_BE\\Edifia_BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\Edifia_BE.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\desarrollo de software\\ciclo 4\\DEA 1\\proyecto Edifia\\EDIFIA\\Edifia\\Edifia_BE\\Edifia_BE.csproj",
         "projectName": "Edifia_BE",
-        "projectPath": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\Edifia_BE.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\OneDrive\\desarrollo de software\\ciclo 4\\DEA 1\\proyecto Edifia\\EDIFIA\\Edifia\\Edifia_BE\\Edifia_BE.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\OneDrive\\desarrollo de software\\ciclo 4\\DEA 1\\proyecto Edifia\\EDIFIA\\Edifia\\Edifia_BE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
