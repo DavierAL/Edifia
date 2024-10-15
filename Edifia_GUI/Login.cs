@@ -34,8 +34,8 @@ namespace Edifia_GUI
                 MessageBox.Show("Inicio de sesión exitoso", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 // Aquí redireccionas a la siguiente pantalla de tu aplicación
-                frmHome frmHome = new frmHome();
-                frmHome.Show();
+                MDIPrincipal mDIPrincipal = new MDIPrincipal();
+                mDIPrincipal.Show();
                 this.Hide();
 
             }
