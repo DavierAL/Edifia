@@ -34,11 +34,15 @@
             statusStrip1 = new StatusStrip();
             lblUsuario = new ToolStripStatusLabel();
             lblTiempo = new ToolStripStatusLabel();
+            mantenimientoToolStripMenuItem = new ToolStripMenuItem();
+            personaToolStripMenuItem = new ToolStripMenuItem();
+            menuStrip1.SuspendLayout();
             statusStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // menuStrip1
             // 
+            menuStrip1.Items.AddRange(new ToolStripItem[] { mantenimientoToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(800, 24);
@@ -75,6 +79,20 @@
             lblTiempo.Size = new Size(47, 17);
             lblTiempo.Text = "Tiempo";
             // 
+            // mantenimientoToolStripMenuItem
+            // 
+            mantenimientoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { personaToolStripMenuItem });
+            mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
+            mantenimientoToolStripMenuItem.Size = new Size(101, 20);
+            mantenimientoToolStripMenuItem.Text = "Mantenimiento";
+            // 
+            // personaToolStripMenuItem
+            // 
+            personaToolStripMenuItem.Name = "personaToolStripMenuItem";
+            personaToolStripMenuItem.Size = new Size(180, 22);
+            personaToolStripMenuItem.Text = "Persona";
+            personaToolStripMenuItem.Click += personaToolStripMenuItem_Click;
+            // 
             // MDIPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -89,6 +107,8 @@
             Text = "Edifia - Simplifica tu gestión";
             WindowState = FormWindowState.Maximized;
             Load += MDIPrincipal_Load;
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
             statusStrip1.ResumeLayout(false);
             statusStrip1.PerformLayout();
             ResumeLayout(false);
@@ -102,5 +122,7 @@
         private StatusStrip statusStrip1;
         private ToolStripStatusLabel lblUsuario;
         private ToolStripStatusLabel lblTiempo;
+        private ToolStripMenuItem mantenimientoToolStripMenuItem;
+        private ToolStripMenuItem personaToolStripMenuItem;
     }
 }

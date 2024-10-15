@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Edifia_ADO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a191513f2a3eb49c1751da7f841b2f2052c21b17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa9672228cc543e74d7167e5d0afb4ea52e89e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Edifia_ADO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Edifia_ADO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

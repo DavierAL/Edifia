@@ -28,10 +28,15 @@ namespace Edifia_GUI
             string login = txtUsuario.Text;
             string password = txtContra.Text;
 
+
             try
             {
                 Usuario usuario = _usuarioBL.Login(login, password);
-                MessageBox.Show("Inicio de sesión exitoso", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+               
+
+                clsCredenciales.Usuario = usuario.LoginUsuario;
+                clsCredenciales.Password = usuario.PassUsuario;
+                clsCredenciales.Nivel = usuario.NivelUsuario;
 
                 // Aquí redireccionas a la siguiente pantalla de tu aplicación
                 MDIPrincipal mDIPrincipal = new MDIPrincipal();

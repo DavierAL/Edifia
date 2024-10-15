@@ -4,13 +4,13 @@ using Edifia_BE;
 
 namespace Edifia_ADO
 {
-    public class UsuarioDAO
+    public class UsuarioADO
     {
         private readonly ConexionADO _conexion;
 
-        public UsuarioDAO()
+        public UsuarioADO()
         {
-            _conexion = new ConexionADO(); // Inicializamos la clase de conexión
+            _conexion = new ConexionADO();
         }
 
         public Usuario Login(string login, string password)
@@ -33,12 +33,11 @@ namespace Edifia_ADO
                     {
                         Id = Convert.ToInt32(reader["id_Usuario"]),
                         NivelUsuario = Convert.ToInt32(reader["nivel_Usuario"]),
-                        // Aquí puedes agregar más propiedades del usuario según tu necesidad
+                        LoginUsuario = login // Asignamos el login al objeto usuario
                     };
                 }
                 else
                 {
-                    // Manejo de error o usuario no encontrado
                     throw new Exception("Credenciales incorrectas o usuario inactivo.");
                 }
             }
