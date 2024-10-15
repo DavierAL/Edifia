@@ -31,7 +31,15 @@ namespace Edifia_GUI
         private void MDIPrincipal_Load(object sender, EventArgs e)
         {
             horaEntrada = DateTime.Now.TimeOfDay;
-         // lblUsuario.Text = "Usuario: " + clsCredenciales.Usuario.ToString();
+            lblUsuario.Text = $"Usuario: {clsCredenciales.Usuario?.ToString() ?? "Desconocido"}";
+        }
+
+        private void personaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Aquí redireccionas a la siguiente pantalla de tu aplicación
+            PersonaMan01 personaMan = new PersonaMan01();
+            personaMan.Show();
+            this.Hide();
         }
     }
 }

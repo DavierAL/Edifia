@@ -10,12 +10,12 @@ namespace Edifia_BL
 {
     public class UsuarioBL
     {
-        private readonly UsuarioDAO _usuarioDao;
+        private readonly UsuarioADO _usuarioDao;
         private int _intentosFallidos;
 
         public UsuarioBL()
         {
-            _usuarioDao = new UsuarioDAO();
+            _usuarioDao = new UsuarioADO();
             _intentosFallidos = 0; // Inicializamos los intentos a 0
         }
 
