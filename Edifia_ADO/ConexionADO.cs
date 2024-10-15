@@ -1,25 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Configuration;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Edifia_ADO
 {
     public class ConexionADO
     {
+        // Método para obtener la cadena de conexión desde el archivo de configuración
         public string GetCnx()
         {
-            string strCnx =
-                ConfigurationManager.ConnectionStrings["Edifia"].ConnectionString;
-            if (object.ReferenceEquals(strCnx, string.Empty))
+            string strCnx = ConfigurationManager.ConnectionStrings["Edifia"].ConnectionString;
+            return string.IsNullOrEmpty(strCnx) ? string.Empty : strCnx;
+        }
+
+        // Método para probar la conexión a la base de datos
+        public bool TestConnection()
+        {
+            using (SqlConnection con = new SqlConnection(GetCnx()))
             {
-                return string.Empty;
-            }
-            else
-            {
-                return strCnx;
+                try
+                {
+                    con.Open(); // Intenta abrir la conexión
+                    return true; // La conexión fue exitosa
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al conectar a la base de datos: " + ex.Message);
+                    return false; // La conexión falló
+                }
             }
         }
     }

@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Edifia_BE
 {
-    public class Usuario
+    public class UsuarioBE
     {
-        public int Id { get; set; }
+        public short Id { get; set; }
         public string LoginUsuario { get; set; }
-        public string PassUsuario { get; set; }
-        public int PersonaId { get; set; }
-        public int NivelUsuario { get; set; }
-        public bool EstadoUsuario { get; set; }
+        public String PassUsuario { get; set; }
+        public short NivelUsuario { get; set; }
+        public Int16 PersonaId { get; set; }
+        public Int16 EstadoUsuario { get; set; }
         public DateTime FecRegistro { get; set; }
     }
 }
