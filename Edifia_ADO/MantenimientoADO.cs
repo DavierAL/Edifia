@@ -10,7 +10,7 @@ using Edifia_BE;
 
 namespace Edifia_ADO
 {
-    public class PersonaADO
+    public class MantenimientoADO
     {
         ConexionADO _conexion = new ConexionADO();
         SqlConnection cnx = new SqlConnection();
@@ -18,20 +18,20 @@ namespace Edifia_ADO
         SqlDataReader dtr;
 
 
-        public DataTable ListarPersona()
+        public DataTable ListarMantenimiento()
         {
             try
             {
                 cnx.ConnectionString = _conexion.GetCnx();
                 cmd.Connection = cnx;
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.CommandText = "usp_Tb_Persona_Listar";
+                cmd.CommandText = "usp_Tb_Mantenimiento_Listar";
                 cmd.Parameters.Clear();
 
                 SqlDataAdapter ada = new SqlDataAdapter(cmd);
                 DataSet dts = new DataSet();
 
-                ada.Fill(dts, "Personas");
+                ada.Fill(dts, "Mantenimientos");
                 return dts.Tables[0];
             }
             catch (SqlException ex)
