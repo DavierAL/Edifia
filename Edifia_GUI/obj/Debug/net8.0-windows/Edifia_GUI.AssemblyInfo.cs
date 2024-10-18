@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Edifia_GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa9672228cc543e74d7167e5d0afb4ea52e89e7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36ceb3b5ac303b8c27284985a4144ac48520728")]
 [assembly: System.Reflection.AssemblyProductAttribute("Edifia_GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Edifia_GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

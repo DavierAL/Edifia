@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Edifia_GUI
 {
-    public partial class frmPersona : Form
+    public partial class frmMantenimiento : Form
     {
-        public frmPersona()
+        public frmMantenimiento()
         {
             InitializeComponent();
         }

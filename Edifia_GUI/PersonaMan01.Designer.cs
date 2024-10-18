@@ -37,36 +37,39 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(82, 26);
+            label1.Location = new Point(72, 20);
             label1.Name = "label1";
-            label1.Size = new Size(203, 20);
+            label1.Size = new Size(162, 15);
             label1.TabIndex = 0;
             label1.Text = "Ingrese filtro por documento:";
             // 
             // txtFiltro
             // 
-            txtFiltro.Location = new Point(315, 23);
+            txtFiltro.Location = new Point(276, 17);
+            txtFiltro.Margin = new Padding(3, 2, 3, 2);
             txtFiltro.Name = "txtFiltro";
-            txtFiltro.Size = new Size(168, 27);
+            txtFiltro.Size = new Size(148, 23);
             txtFiltro.TabIndex = 1;
             // 
             // dtgDatos
             // 
             dtgDatos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtgDatos.Location = new Point(54, 76);
+            dtgDatos.Location = new Point(47, 57);
+            dtgDatos.Margin = new Padding(3, 2, 3, 2);
             dtgDatos.Name = "dtgDatos";
             dtgDatos.RowHeadersWidth = 51;
-            dtgDatos.Size = new Size(705, 340);
+            dtgDatos.Size = new Size(666, 401);
             dtgDatos.TabIndex = 2;
             // 
             // PersonaMan01
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(945, 647);
+            ClientSize = new Size(827, 485);
             Controls.Add(dtgDatos);
             Controls.Add(txtFiltro);
             Controls.Add(label1);
+            Margin = new Padding(3, 2, 3, 2);
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "PersonaMan01";

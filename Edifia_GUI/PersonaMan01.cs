@@ -13,7 +13,7 @@ namespace Edifia_GUI
 {
     public partial class PersonaMan01 : Form
     {
-        PersonaBL objPersonaBL = new PersonaBL();
+        MantenimientoBL objPersonaBL = new MantenimientoBL();
         DataView dtv;
         public PersonaMan01()
         {

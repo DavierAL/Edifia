@@ -10,14 +10,14 @@ using Edifia_BE;
 
 namespace Edifia_BL
 {
-    public class PersonaBL
+    public class MantenimientoBL
     {
-        PersonaADO objPersonaADO = new PersonaADO();
+        MantenimientoADO objMantenimientoADO = new MantenimientoADO();
 
 
-        public DataTable ListarPersona()
+        public DataTable ListarMantenimeinto()
         {
-            return objPersonaADO.ListarPersona();
+            return objMantenimientoADO.ListarMantenimiento();
         }
     }
 }
