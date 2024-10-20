@@ -30,12 +30,11 @@
         {
             components = new System.ComponentModel.Container();
             menuStrip1 = new MenuStrip();
+            mantenimientoToolStripMenuItem = new ToolStripMenuItem();
             timer1 = new System.Windows.Forms.Timer(components);
             statusStrip1 = new StatusStrip();
             lblUsuario = new ToolStripStatusLabel();
             lblTiempo = new ToolStripStatusLabel();
-            mantenimientoToolStripMenuItem = new ToolStripMenuItem();
-            personaToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             statusStrip1.SuspendLayout();
             SuspendLayout();
@@ -48,6 +47,12 @@
             menuStrip1.Size = new Size(800, 24);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
+            // 
+            // mantenimientoToolStripMenuItem
+            // 
+            mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
+            mantenimientoToolStripMenuItem.Size = new Size(101, 20);
+            mantenimientoToolStripMenuItem.Text = "Mantenimiento";
             // 
             // timer1
             // 
@@ -79,20 +84,6 @@
             lblTiempo.Size = new Size(47, 17);
             lblTiempo.Text = "Tiempo";
             // 
-            // mantenimientoToolStripMenuItem
-            // 
-            mantenimientoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { personaToolStripMenuItem });
-            mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
-            mantenimientoToolStripMenuItem.Size = new Size(101, 20);
-            mantenimientoToolStripMenuItem.Text = "Mantenimiento";
-            // 
-            // personaToolStripMenuItem
-            // 
-            personaToolStripMenuItem.Name = "personaToolStripMenuItem";
-            personaToolStripMenuItem.Size = new Size(180, 22);
-            personaToolStripMenuItem.Text = "Persona";
-            personaToolStripMenuItem.Click += personaToolStripMenuItem_Click;
-            // 
             // MDIPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -123,6 +114,5 @@
         private ToolStripStatusLabel lblUsuario;
         private ToolStripStatusLabel lblTiempo;
         private ToolStripMenuItem mantenimientoToolStripMenuItem;
-        private ToolStripMenuItem personaToolStripMenuItem;
     }
 }
