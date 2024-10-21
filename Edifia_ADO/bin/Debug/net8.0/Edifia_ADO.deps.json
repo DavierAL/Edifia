@@ -135,10 +135,7 @@
       "System.Security.Principal.Windows/4.7.0": {},
       "Edifia_BE/1.0.0": {
         "runtime": {
-          "Edifia_BE.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Edifia_BE.dll": {}
         }
       }
     }

@@ -105,18 +105,12 @@
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
-          "Edifia_ADO.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Edifia_ADO.dll": {}
         }
       },
       "Edifia_BE/1.0.0": {
         "runtime": {
-          "Edifia_BE.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Edifia_BE.dll": {}
         }
       },
       "Edifia_BL/1.0.0": {
@@ -125,10 +119,7 @@
           "Edifia_BE": "1.0.0"
         },
         "runtime": {
-          "Edifia_BL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Edifia_BL.dll": {}
         }
       }
     }
