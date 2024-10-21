@@ -37,9 +37,9 @@ namespace Edifia_GUI
         private void personaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Aquí redireccionas a la siguiente pantalla de tu aplicación
-            PersonaMan01 personaMan = new PersonaMan01();
-            personaMan.Show();
-            this.Hide();
+           // PersonaMan01 personaMan = new PersonaMan01();
+            //personaMan.Show();
+            //this.Hide();
         }
     }
 }

@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_ado\\mantenimientoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\mantenimientoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_gui\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B4358DA-0BCE-48DE-AC96-82A863A49A53}|Edifia_BE\\Edifia_BE.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_be\\mantenimientobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B4358DA-0BCE-48DE-AC96-82A863A49A53}|Edifia_BE\\Edifia_BE.csproj|solutionrelative:edifia_be\\mantenimientobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_bl\\mantenimientobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\mantenimientobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_bl\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_gui\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\edifia_gui\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\frmmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_bl\\edificiobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\edificiobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_ado\\edificioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\edificioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_ado\\empleadoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\empleadoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_bl\\empleadobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\empleadobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_ado\\conexionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\conexionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_ado\\actividadmantenimientoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\actividadmantenimientoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|f:\\archivos\\isil\\ciclo 5\\dess. aplicaciones 1\\edifiaproyecto\\edifia\\edifia_bl\\actividadmantenimientobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\actividadmantenimientobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +50,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioBL.cs",
-              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\UsuarioBL.cs",
-              "RelativeDocumentMoniker": "Edifia_BL\\UsuarioBL.cs",
-              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\UsuarioBL.cs",
-              "RelativeToolTip": "Edifia_BL\\UsuarioBL.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T00:03:22.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MantenimientoBL.cs",
-              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\MantenimientoBL.cs",
-              "RelativeDocumentMoniker": "Edifia_BL\\MantenimientoBL.cs",
-              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\MantenimientoBL.cs",
-              "RelativeToolTip": "Edifia_BL\\MantenimientoBL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:54:50.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MantenimientoADO.cs",
-              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\MantenimientoADO.cs",
-              "RelativeDocumentMoniker": "Edifia_ADO\\MantenimientoADO.cs",
-              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\MantenimientoADO.cs",
-              "RelativeToolTip": "Edifia_ADO\\MantenimientoADO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:54:31.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MantenimientoBE.cs",
-              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\MantenimientoBE.cs",
-              "RelativeDocumentMoniker": "Edifia_BE\\MantenimientoBE.cs",
-              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BE\\MantenimientoBE.cs",
-              "RelativeToolTip": "Edifia_BE\\MantenimientoBE.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:54:07.274Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EdificioBL.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\EdificioBL.cs",
+              "RelativeDocumentMoniker": "Edifia_BL\\EdificioBL.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\EdificioBL.cs",
+              "RelativeToolTip": "Edifia_BL\\EdificioBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:57:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EdificioADO.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\EdificioADO.cs",
+              "RelativeDocumentMoniker": "Edifia_ADO\\EdificioADO.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\EdificioADO.cs",
+              "RelativeToolTip": "Edifia_ADO\\EdificioADO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:56:57.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoBL.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\EmpleadoBL.cs",
+              "RelativeDocumentMoniker": "Edifia_BL\\EmpleadoBL.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\EmpleadoBL.cs",
+              "RelativeToolTip": "Edifia_BL\\EmpleadoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:24:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexionADO.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\ConexionADO.cs",
+              "RelativeDocumentMoniker": "Edifia_ADO\\ConexionADO.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\ConexionADO.cs",
+              "RelativeToolTip": "Edifia_ADO\\ConexionADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:45:34.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmpleadoADO.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\EmpleadoADO.cs",
+              "RelativeDocumentMoniker": "Edifia_ADO\\EmpleadoADO.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\EmpleadoADO.cs",
+              "RelativeToolTip": "Edifia_ADO\\EmpleadoADO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:41:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Edifia_GUI\\frmLogin.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Edifia_GUI\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:34:37.706Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMantenimiento.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmMantenimiento.cs",
+              "RelativeDocumentMoniker": "Edifia_GUI\\frmMantenimiento.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmMantenimiento.cs",
+              "RelativeToolTip": "Edifia_GUI\\frmMantenimiento.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:33:46.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmMantenimiento.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmMantenimiento.cs",
               "RelativeDocumentMoniker": "Edifia_GUI\\frmMantenimiento.cs",
@@ -106,15 +160,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Edifia_GUI\\frmLogin.cs",
-              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_GUI\\frmLogin.cs",
-              "RelativeToolTip": "Edifia_GUI\\frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ActividadMantenimientoBL.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\ActividadMantenimientoBL.cs",
+              "RelativeDocumentMoniker": "Edifia_BL\\ActividadMantenimientoBL.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_BL\\ActividadMantenimientoBL.cs",
+              "RelativeToolTip": "Edifia_BL\\ActividadMantenimientoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T23:10:19.671Z",
+              "WhenOpened": "2024-10-21T00:41:46.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActividadMantenimientoADO.cs",
+              "DocumentMoniker": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\ActividadMantenimientoADO.cs",
+              "RelativeDocumentMoniker": "Edifia_ADO\\ActividadMantenimientoADO.cs",
+              "ToolTip": "F:\\Archivos\\ISIL\\CICLO 5\\DESS. APLICACIONES 1\\EdifiaProyecto\\Edifia\\Edifia_ADO\\ActividadMantenimientoADO.cs",
+              "RelativeToolTip": "Edifia_ADO\\ActividadMantenimientoADO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:42:17.54Z",
               "EditorCaption": ""
             }
           ]

@@ -11,4 +11,8 @@
     <ProjectReference Include="..\Edifia_BE\Edifia_BE.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="blic\" />
+  </ItemGroup>
+
 </Project>

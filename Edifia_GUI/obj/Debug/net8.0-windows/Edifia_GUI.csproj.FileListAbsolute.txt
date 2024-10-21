@@ -18,9 +18,7 @@ F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\b
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
-F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmPersona.resources
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
-F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.PersonaMan01.resources
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
@@ -34,6 +32,4 @@ F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\o
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
 F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
-F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
-F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmHabitante.resources
-F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmVisita.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
