@@ -25,7 +25,7 @@ namespace Edifia_ADO
                 cnx.ConnectionString = _conexion.GetCnx();
                 cmd.Connection = cnx;
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.CommandText = "usp_Tb_Mantenimiento_Listar";
+                cmd.CommandText = "usp_Tb_Mantenimiento_FechaProgramada";
                 cmd.Parameters.Clear();
 
                 SqlDataAdapter ada = new SqlDataAdapter(cmd);
