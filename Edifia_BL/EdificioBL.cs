@@ -12,15 +12,9 @@ namespace Edifia_BL
     {
         EdificioADO objEdificioADO = new EdificioADO();
 
-<<<<<<< HEAD
-        public DataTable ListarEdificios()
-        {
-            return objEdificioADO.ListarEdificios();
-=======
         public DataTable ListarEdificio()
         {
             return objEdificioADO.ListarEdificio();
->>>>>>> ad178f82718c561339c10efb5feae9ded6c688e0
         }
     }
 }

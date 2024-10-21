@@ -28,7 +28,7 @@ namespace Edifia_GUI
             try
             {
                 //cargamos el combo
-                DataTable dt = objEdificioBL.ListarEdificios();
+                DataTable dt = objEdificioBL.ListarEdificio();
                 DataRow dr;
                 dr = dt.NewRow();
                 dr["id"] = 0;
