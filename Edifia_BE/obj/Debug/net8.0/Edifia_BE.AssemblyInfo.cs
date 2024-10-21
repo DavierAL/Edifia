@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Edifia_BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51877177b506f4d846b5de5c6ebf43ecf84296b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53c3f05494fb6241e84784171eba67e4b4c720a1")]
+>>>>>>> ad178f82718c561339c10efb5feae9ded6c688e0
 [assembly: System.Reflection.AssemblyProductAttribute("Edifia_BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Edifia_BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\departamentoman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\edifia_gui\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_ado\\departamentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\departamentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\edifia_gui\\departamentoman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_ado\\edificioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\edificioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_bl\\edificiobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\edificiobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B4358DA-0BCE-48DE-AC96-82A863A49A53}|Edifia_BE\\Edifia_BE.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_be\\departamentobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B4358DA-0BCE-48DE-AC96-82A863A49A53}|Edifia_BE\\Edifia_BE.csproj|solutionrelative:edifia_be\\departamentobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_ado\\departamentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD22A83-4048-485C-98FE-19A072083DC8}|Edifia_ADO\\Edifia_ADO.csproj|solutionrelative:edifia_ado\\departamentoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_bl\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8344883-EA09-48C0-9981-FABDC4729722}|Edifia_BL\\Edifia_BL.csproj|solutionrelative:edifia_bl\\departamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\departamentoman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|d:\\isil\\2024-02\\desarrollo de aplicaciones 1\\edifia\\edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48290AC1-8016-4708-AA18-1CC00605B6AA}|Edifia_GUI\\Edifia_GUI.csproj|solutionrelative:edifia_gui\\departamentoman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,45 +66,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EdificioADO.cs",
+              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_ADO\\EdificioADO.cs",
+              "RelativeDocumentMoniker": "Edifia_ADO\\EdificioADO.cs",
+              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_ADO\\EdificioADO.cs",
+              "RelativeToolTip": "Edifia_ADO\\EdificioADO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:26:25.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EdificioBL.cs",
+              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_BL\\EdificioBL.cs",
+              "RelativeDocumentMoniker": "Edifia_BL\\EdificioBL.cs",
+              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_BL\\EdificioBL.cs",
+              "RelativeToolTip": "Edifia_BL\\EdificioBL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:22:07.663Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "MDIPrincipal.cs",
+              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs",
+              "RelativeDocumentMoniker": "Edifia_GUI\\MDIPrincipal.cs",
+              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs",
+              "RelativeToolTip": "Edifia_GUI\\MDIPrincipal.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:40:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MDIPrincipal.cs [Design]",
+              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs",
+              "RelativeDocumentMoniker": "Edifia_GUI\\MDIPrincipal.cs",
+              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs [Design]",
+              "RelativeToolTip": "Edifia_GUI\\MDIPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:40:31.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartamentoMan02.cs",
+              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan02.cs",
+              "RelativeDocumentMoniker": "Edifia_GUI\\DepartamentoMan02.cs",
+              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan02.cs",
+              "RelativeToolTip": "Edifia_GUI\\DepartamentoMan02.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:28:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DepartamentoMan02.cs [Design]",
               "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan02.cs",
               "RelativeDocumentMoniker": "Edifia_GUI\\DepartamentoMan02.cs",
               "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan02.cs [Design]",
               "RelativeToolTip": "Edifia_GUI\\DepartamentoMan02.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T22:45:01.38Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-20T22:45:01.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DepartamentoBE.cs",
               "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_BE\\DepartamentoBE.cs",
               "RelativeDocumentMoniker": "Edifia_BE\\DepartamentoBE.cs",
               "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_BE\\DepartamentoBE.cs",
               "RelativeToolTip": "Edifia_BE\\DepartamentoBE.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T01:50:26.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T01:50:26.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DepartamentoADO.cs",
               "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_ADO\\DepartamentoADO.cs",
               "RelativeDocumentMoniker": "Edifia_ADO\\DepartamentoADO.cs",
               "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_ADO\\DepartamentoADO.cs",
               "RelativeToolTip": "Edifia_ADO\\DepartamentoADO.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T01:23:10.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T01:23:10.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DepartamentoBL.cs",
               "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_BL\\DepartamentoBL.cs",
               "RelativeDocumentMoniker": "Edifia_BL\\DepartamentoBL.cs",
@@ -104,71 +171,31 @@
               "RelativeToolTip": "Edifia_BL\\DepartamentoBL.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T01:34:21.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T01:34:21.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\Program.cs",
-              "RelativeDocumentMoniker": "Edifia_GUI\\Program.cs",
-              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\Program.cs",
-              "RelativeToolTip": "Edifia_GUI\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:25:28.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MDIPrincipal.cs [Design]",
-              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs",
-              "RelativeDocumentMoniker": "Edifia_GUI\\MDIPrincipal.cs",
-              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs [Design]",
-              "RelativeToolTip": "Edifia_GUI\\MDIPrincipal.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:25:15.413Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MDIPrincipal.cs",
-              "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs",
-              "RelativeDocumentMoniker": "Edifia_GUI\\MDIPrincipal.cs",
-              "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\MDIPrincipal.cs",
-              "RelativeToolTip": "Edifia_GUI\\MDIPrincipal.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:25:05.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "DepartamentoMan01.cs",
               "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan01.cs",
               "RelativeDocumentMoniker": "Edifia_GUI\\DepartamentoMan01.cs",
               "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan01.cs",
               "RelativeToolTip": "Edifia_GUI\\DepartamentoMan01.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAlwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T17:44:29.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DepartamentoMan01.cs [Design]",
               "DocumentMoniker": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan01.cs",
               "RelativeDocumentMoniker": "Edifia_GUI\\DepartamentoMan01.cs",
               "ToolTip": "D:\\ISIL\\2024-02\\DESARROLLO DE APLICACIONES 1\\edifia\\Edifia_GUI\\DepartamentoMan01.cs [Design]",
               "RelativeToolTip": "Edifia_GUI\\DepartamentoMan01.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:33:16.64Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-20T17:33:16.64Z"
             }
           ]
         }
