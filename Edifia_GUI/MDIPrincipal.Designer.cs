@@ -31,6 +31,7 @@
             components = new System.ComponentModel.Container();
             menuStrip1 = new MenuStrip();
             mantenimientoToolStripMenuItem = new ToolStripMenuItem();
+            departamentoToolStripMenuItem = new ToolStripMenuItem();
             timer1 = new System.Windows.Forms.Timer(components);
             statusStrip1 = new StatusStrip();
             lblUsuario = new ToolStripStatusLabel();
@@ -50,9 +51,17 @@
             // 
             // mantenimientoToolStripMenuItem
             // 
+            mantenimientoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { departamentoToolStripMenuItem });
             mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
             mantenimientoToolStripMenuItem.Size = new Size(101, 20);
             mantenimientoToolStripMenuItem.Text = "Mantenimiento";
+            // 
+            // departamentoToolStripMenuItem
+            // 
+            departamentoToolStripMenuItem.Name = "departamentoToolStripMenuItem";
+            departamentoToolStripMenuItem.Size = new Size(180, 22);
+            departamentoToolStripMenuItem.Text = "Departamentos";
+            departamentoToolStripMenuItem.Click += departamentoToolStripMenuItem_Click;
             // 
             // timer1
             // 
@@ -114,5 +123,6 @@
         private ToolStripStatusLabel lblUsuario;
         private ToolStripStatusLabel lblTiempo;
         private ToolStripMenuItem mantenimientoToolStripMenuItem;
+        private ToolStripMenuItem departamentoToolStripMenuItem;
     }
 }

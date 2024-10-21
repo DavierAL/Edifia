@@ -34,5 +34,11 @@ namespace Edifia_GUI
             lblUsuario.Text = $"Usuario: {clsCredenciales.Usuario?.ToString() ?? "Desconocido"}";
         }
 
+        private void departamentoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DepartamentoMan01 objDepartamentoMan01 = new DepartamentoMan01();
+            objDepartamentoMan01.MdiParent = this;
+            objDepartamentoMan01.Show();
+        }
     }
 }

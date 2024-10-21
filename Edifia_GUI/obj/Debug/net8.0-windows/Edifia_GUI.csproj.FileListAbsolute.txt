@@ -71,3 +71,5 @@ D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-
 D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
 D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
 D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
